@@ -159,9 +159,8 @@ form .row {
   width: 450px;
 }
 #footer {
-  background-color: #d3dbff;
-  /* background-image: url("../image/Footer-Background-Image.png");
-  background-repeat: no-repeat; */
+  background-image: url("../image/Footer.png");
+  background-repeat: no-repeat;
   margin-top: 0px;
   padding: 50px 0px 0px;
   color: #ffffff;
